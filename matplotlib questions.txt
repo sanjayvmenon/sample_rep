@@ -1,0 +1,106 @@
+### **Exercise 1: Basic Line Plot**
+Create a simple line plot.
+
+**Task**:
+- Plot `y = 2x + 5` for `x` ranging from `-10` to `10`.
+- Add title, x-label, and y-label.
+
+*Why it matters*: If you can’t plot a basic line, you’re missing the whole point of data visualization.
+
+---
+
+### **Exercise 2: Multiple Line Plots**
+Plot more than one line on the same graph.
+
+**Task**:
+- Plot `y1 = x`, `y2 = x^2`, and `y3 = x^3` for `x` in the range `0` to `5`.
+- Differentiate the lines using color and line style. Include a legend.
+
+*Why it matters*: Data rarely exists in isolation. Comparing variables side by side is key.
+
+---
+
+### **Exercise 3: Scatter Plot**
+Create a scatter plot to visualize relationships between variables.
+
+**Task**:
+- Generate 50 random `(x, y)` pairs using `numpy`.
+- Plot a scatter plot with different colors for the points.
+
+*Why it matters*: Scatter plots are the bread and butter of identifying correlations.
+
+---
+
+### **Exercise 4: Bar Chart**
+Visualize categorical data using a bar chart.
+
+**Task**:
+- Plot a bar chart of 5 products (A, B, C, D, E) with sales values [10, 20, 30, 15, 25].
+
+*Why it matters*: Bar charts quickly expose winners and losers in any comparison.
+
+---
+
+### **Exercise 5: Histogram**
+Show the distribution of data using a histogram.
+
+**Task**:
+- Generate 1000 random numbers from a normal distribution and plot a histogram with 50 bins.
+
+*Why it matters*: Histograms are the simplest way to see how data spreads.
+
+---
+
+### **Exercise 6: Pie Chart**
+Create a pie chart to represent parts of a whole.
+
+**Task**:
+- Make a pie chart for the market share of four companies: A (40%), B (25%), C (20%), D (15%).
+
+*Why it matters*: Pie charts are overused but still necessary for visualizing parts of a whole.
+
+---
+
+### **Exercise 7: Subplots**
+Visualize different plots on the same figure using subplots.
+
+**Task**:
+- Create a 2x2 grid of plots: 
+  1. Line plot of `y = sin(x)`
+  2. Line plot of `y = cos(x)`
+  3. Scatter plot of `x` vs. `y` (random values)
+  4. Bar chart of product sales
+
+*Why it matters*: Real-world data stories are complex—subplots bring them together.
+
+---
+
+### **Exercise 8: Customize Plot Style**
+Experiment with customizing plot style.
+
+**Task**:
+- Plot `y = sin(x)` for `x` in the range of `0` to `2π`. Customize the color, line style, and markers. Add a grid.
+
+*Why it matters*: Default plots are boring. Customization turns information into a visual asset.
+
+---
+
+### **Exercise 9: Stacked Bar Chart**
+Visualize multiple categories in the same bar using stacking.
+
+**Task**:
+- Create a stacked bar chart with 3 groups (A, B, C), each with values for three categories (X, Y, Z).
+
+*Why it matters*: This visualization makes a compact comparison easy to understand.
+
+---
+
+### **Exercise 10: Heatmap**
+Visualize a 2D matrix of values using a heatmap.
+
+**Task**:
+- Create a 6x6 matrix of random values and plot a heatmap using `imshow()`.
+
+*Why it matters*: Heatmaps are fantastic for spotting intensity, trends, or clusters in data.
+
+---
