@@ -1,0 +1,39 @@
+TripID,Late,Bus Driver,Weekday,Time
+001,12,John,Wednesday,8:45 AM
+003,1,Paulo,Tuesday,9:25 AM
+005,3,Mark,Tuesday,9:25 AM
+007,45,Raymond,Thursday,9:25 AM
+009,61,Mark,Friday,9:25 AM
+011,2,Monica,Tuesday,8:45 AM
+013,5,John,Tuesday,8:45 AM
+121,10,John,Wednesday,7:15 AM
+127,-2,Mark,Monday,9:25 AM
+016,14,John,Wednesday,7:15 AM
+098,0,Raymond,Friday,9:25 AM
+103,-1,Paulo,Friday,9:25 AM
+108,3,Mark,Friday,8:00 AM
+113,45,John,Monday,9:25 AM
+118,7,John,Monday,8:45 AM
+757,17,Paulo,Wednesday,9:25 AM
+477,8,John,Tuesday,9:25 AM
+133,19,Raymond,Tuesday,8:00AM
+138,22,John,Tuesday,7:15 AM
+128,0,John,Monday,7:15 AM
+019,2,John,Monday,8:45 AM
+021,7,Paulo,Thursday,9:25 AM
+023,-1,Paulo,Monday,8:45 AM
+025,32,Mark,Thursday,8:00AM
+027,2,John,Monday,8:00AM
+143,23,John,Friday,9:25 AM
+123,14,Raymond,Thursday,8:45 AM
+015,7,Paulo,Wednesday,8:45 AM
+758,9,Monica,Tuesday,9:25 AM
+017,29,Paulo,Thursday,7:15 AM
+401,12,Raymond,Tuesday,9:25 AM
+712,11,Raymond,Tuesday,8:45 AM
+091,-1,Raymond,Tuesday,7:15 AM
+092,7,Paulo,Wednesday,8:45 AM
+112,31,Paulo,Wednesday,9:25 AM
+094,0,Monica,Wednesday,9:25 AM
+814,14,Paulo,Monday,7:15 AM
+917,-1,Monica,Tuesday,8:00 AM
